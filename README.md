@@ -1,3 +1,11 @@
+Sir I have printed data in console from groups.jsx due to a little bit time issue I can't display that on screen But I worked on routers,redux toolkit,Slice but the issue only occured is I can't display the Data 
+Thanks and Allah hafiz!
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
